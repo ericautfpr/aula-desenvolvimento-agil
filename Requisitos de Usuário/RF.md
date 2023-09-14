@@ -11,6 +11,11 @@
 | RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
 | RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
 
+
+<div style="text-align: center">
+<p>Tabela 1: Requisitos Funcionais</p>
+</div>
+
 # 2. Referências
 
 
