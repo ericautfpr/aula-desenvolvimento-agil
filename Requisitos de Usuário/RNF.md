@@ -8,6 +8,9 @@
 | RF02 |  O executável do sistema não deve ser superior a 512 Kbytes.     |  Produto/eficiência     |Alta        |    RF8              |
 | RF03 |  O sistema deve ser implementado na linguagem Python.              |  Organizacionais/Implementação       |Baixa       |     -               |
 
+<div style="text-align: center">
+<p>Tabela 2: Requisitos Não Funcionais</p>
+</div>
 
 # 2. Referências
 
