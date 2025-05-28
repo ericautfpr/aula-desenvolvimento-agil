@@ -22,7 +22,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao entrar no aplicativo o vídeo já deve aparecer na página inicial</li><li> A tela do vídeo deve estar maximizada na tela do celular</li><li>Os vídeos devem aparecer em sequência</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF07</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">13</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -40,7 +40,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes aos visitantes</li><li> Os vídeos postados devem aparecer ao entrar no perfil para que seja possível seu acesso</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">13</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
 </table>
 
